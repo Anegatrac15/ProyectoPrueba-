@@ -1,0 +1,27 @@
+.tituloPrincipal {
+    text-align: center;
+
+}
+
+.fondoGrid{
+    background-color: rgb(83, 138, 255);
+
+}
+.fondoMenu{
+    background-color: rgb(170, 170, 170);
+}
+.body {
+    background-color: #e4e4e4;
+
+  }
+  .listaMultimedia{
+   background-color: white;
+  }
+  .cardColor{
+      background-color: black;
+      text-align: center ;
+  }
+  .colorTexto{
+      color: white;
+  
+  }
